@@ -1,2 +1,2 @@
-# IBM_GitHub Course 
+# IBM GitHub Course 
 Repository for IBM Badge 
